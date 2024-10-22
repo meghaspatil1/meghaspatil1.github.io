@@ -211,10 +211,10 @@ ul {
     color: #f9a825; /* LinkedIn color */
 }
 .contact-info a:hover {
-    color: #005582; /* Darker shade on hover */
+    color: #333; /* Darker shade on hover */
 }
 .contact-info p{
-    color: #fff;
+    color: #f9a825;
 }
 
 /* Footer Styles */
